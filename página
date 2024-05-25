@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Feliz Cumpleaños Mariancita</title>
+  
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+ <h2>Pasa el mouse por la carta</h2>
+<div class="body">
+ <div class="birthdayCard">
+<div class="cardFront"><h3 class="happy">¡FELIZ CUMPLEAÑOS, HONEY!</h3>
+<div class="balloons">
+  <div class="balloonOne"></div>
+  <div class="balloonTwo"></div>
+  <div class="balloonThree"></div>
+  <div class="balloonFour"></div>
+</div>
+</div>
+<div class="cardInside">
+    <h3 class="back">¡FELIZ CUMPLEAÑOS, HONEY!</h3>
+    <p contenteditable="true">Amada Marian <br> Que te la pases muy lindo en este bello día, que todo lo que venga de ahora en adelante sea muy lindo, te amo muchote, eres mujer más hermosa que existe</p>
+    <p contenteditable="true" class="name">Educinski</p>
+  </div>
+</div>
+</div>
+<footer><center>Si ves esto, haz click <a href="/HBD.html">Sorpresa</a></center></footer>
+</body>
+</html>
